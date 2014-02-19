@@ -1,0 +1,54 @@
+<html>
+<head>
+<titlle>Practica 1</title>
+<body bgcolor="green">
+<h1 aligh="center">Venta de Autos</h1>
+<hr>
+ <img src="accord.JPG""=2 widht="300"height="300">
+ <p><h4>Primer Comentario</p><h/4>La carrocería del Accord recibió mejoras en reducción de peso, 
+eficiencia aerodinámica y resistencia a la rodadura en su proceso de 
+transformación al Accord PHEV. Todo está diseñado para ayudar a los conductores 
+del Accord PHEV a maximizar su autonomía desde cada vatio de energía eléctrica 
+y cada galón de gasolina. En materia de reducción de peso, incluye:</p>
+
+<p><h4>Segundo Comentario</p><h/4>
+<a href="http://www.honda.mx/accord-sedan/colores" target="_blank">Agencia de la Honda.</a>El 
+Sedán Accord Híbrido Eléctrico 2014 presenta uno de los cuatro 
+nuevos trenes motrices eficientes del nuevo Accord. El Accord Híbrido 
+Eléctrico también servirá como base para la versión híbrida convencional 
+del Sedán Accord, que se unirá a la línea de Honda Accord en el verano de 2013.</p>
+
+<p><h4>Tercer Comentario</p><h/4>
+<p>El Accord PHEV está disponible en un exclusivo acabado de lujo altamente equipado, 
+sobre la base de las características 
+estándar del modelo Accord Touring premium. 
+Las características estándar del Accord PHEV incluyen:
+
+•Bluetooth.
+•Conectividad USB/iPod.
+•Control de clima automático de doble zona.
+•Compatibilidad Pandora® Internet radio.
+•Sistema Inteligente de Encendido y Sistema Inteligente de Acceso.</p>
+
+<p>lista </p>
+<ol>
+<li>Historia del Accord </li>
+<li>Agencia de la Honda </li>
+<li>Caracteristicas del Accord </li>
+</ol>
+
+
+<table border="2" style="Whidt:400px">
+<tr>
+<td>Honda</td>
+<td>Accord</td>
+<td>2014</td>
+</tr>
+</tr>
+ <td>Color</td>
+ <td>Blanco</td>
+ <td>Automatico</td>
+</tr>
+</table>
+</head>
+</html>
